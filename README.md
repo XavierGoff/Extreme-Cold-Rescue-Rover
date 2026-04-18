@@ -2,7 +2,7 @@
 
 A tracked rescue robot designed to operate in snowy and unstable terrain, with a focus on low ground pressure, robust mobility, and practical field deployment. This project was developed as a fast-turnaround engineering build, combining mechanical design, drivetrain selection, power system integration, and control architecture into a compact rescue platform.
 
-![Hero Render](images/hero-render.png)
+![Hero Render](images/HeroRender.png)
 
 ## Overview
 
